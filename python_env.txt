@@ -1,0 +1,12 @@
+Install python from python.org
+
+Ensure pip, setuptools, and wheel are up to date
+> py -m pip install --upgrade pip setuptools wheel
+
+Create project environment folder, activate and install various packages
+> cd python_work
+> py -m venv projectfolder
+> cd projectfolder
+> .\Scripts\activate
+> py -m pip install numpy opencv-python matplotlib argparse
+
