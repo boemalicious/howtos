@@ -1,0 +1,4 @@
+REM Change to project directory, activate environment, keep prompt
+
+cd /d c:\python_work\project_name
+cmd /k ".\Scripts\activate.bat"
