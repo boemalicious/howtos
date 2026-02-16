@@ -1,0 +1,16 @@
+Install jupyter notebook (https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+> py -m pip install notebook
+> py -m pip install numpy matplotlib seaborn pandas  
+
+Start jupyter notebook
+> jupyter notebook
+
+Install widgets (https://ipywidgets.readthedocs.io/en/latest/)
+> py -m pip install ipywidgets
+
+Install extensions (Jupyter Notebook (7.x and above) have removed support for nbextensions)
+> py -m pip install jupyter_contrib_nbextensions
+> jupyter contrib nbextension install --user
+
+
+
