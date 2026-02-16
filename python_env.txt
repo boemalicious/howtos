@@ -10,5 +10,7 @@ Create project environment folder, activate and install various packages
 > .\Scripts\activate
 > py -m pip install numpy opencv-python matplotlib argparse
 
+Install jupyter notebook and widgets
 > py -m pip install notebook
+> py -m pip install ipywidgets
 
