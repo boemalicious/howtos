@@ -9,6 +9,7 @@ Create project environment folder, activate and install various packages
 > cd projectfolder
 > .\Scripts\activate
 > py -m pip install numpy opencv-python matplotlib argparse pandas
+> py -m pip install torch torchvision
 
 Install jupyter notebook and widgets
 > py -m pip install notebook
